@@ -90,7 +90,6 @@ nmap <silent> <F9> :QFix<CR> "F9 to open or close quickfix
 "s:查找这个C符号
 "t:查找给它赋值的地方
 
-
 "golang start
 set rtp+=$GOROOT/misc/vim
 "golang end
